@@ -1,5 +1,5 @@
-Color Imaging RGB Channels
-Divide the given image in 3 parts(RGB) and stack them together to get a color image
+% Color Imaging RGB Channels
+% Divide the given image in 3 parts(RGB) and stack them together to get a color image
 
 % Read the image
 img = imread('image.jpg');

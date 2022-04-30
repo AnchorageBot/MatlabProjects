@@ -1,6 +1,6 @@
 ## Matlab Projects
 
-This github repository holds matlab code resulting from matlab projects
+This github repository holds matlab code resulting from various matlab projects
 
 ## Integrated Development Environment
 

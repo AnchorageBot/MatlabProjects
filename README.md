@@ -10,5 +10,9 @@ This github repository holds matlab code resulting from various projects
 
 [Matlab Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html)
 
+## Computer Vision Scripts
+
+## Coastal Erosion Scripts
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

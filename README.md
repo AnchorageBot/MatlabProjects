@@ -10,6 +10,8 @@ This github repository holds matlab code resulting from various projects
 
 [Matlab Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html)
 
+[Fundamentals of Numerical Computation - Matlab Edition](https://tobydriscoll.net/project/fnc/)
+
 ## Computer Vision Scripts
 
 ## Coastal Erosion Scripts

@@ -14,9 +14,11 @@ This github repository holds matlab code resulting from various projects
 
 [Pattern Recognition and Machine Learning - Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/publications/)
 
-## Computer Vision Scripts
+## Computer Vision
 
-## Coastal Erosion Scripts
+[Coursera - Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
+
+## Coastal Erosion
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

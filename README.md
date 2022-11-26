@@ -12,7 +12,7 @@ This github repository holds matlab code resulting from various projects
 
 [Fundamentals of Numerical Computation - Matlab Edition - Driscoll and Braun](https://tobydriscoll.net/project/fnc/)
 
-[Pattern Recognition and Machine Learning by C. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/publications/)
+[Pattern Recognition and Machine Learning - Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/publications/)
 
 ## Computer Vision Scripts
 

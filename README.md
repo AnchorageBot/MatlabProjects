@@ -18,6 +18,8 @@ This github repository holds matlab code resulting from various projects
 
 [Coursera - Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
 
+[Coursera - Image Processing for Engineering and Science Specialization](https://www.coursera.org/specializations/image-processing)
+
 ## Coastal Erosion
 
 ## License

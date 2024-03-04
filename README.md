@@ -14,13 +14,17 @@ This github repository holds references for, and scripts resulting from, various
 
 [Pattern Recognition and Machine Learning - Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/publications/)
 
+## Coastal Erosion
+
 ## Computer Vision
 
 [Coursera - Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
 
 [Coursera - Image Processing for Engineering and Science Specialization](https://www.coursera.org/specializations/image-processing)
 
-## Coastal Erosion
+## Control Theory
+
+[Control Bootcamp - Dr. Steven L. Burnton - YouTube Lectures](https://youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m&si=_p1kycQTYP55-q-z)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
